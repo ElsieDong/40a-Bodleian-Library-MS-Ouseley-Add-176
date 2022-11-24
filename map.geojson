@@ -1,12 +1,13 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: The Folio",
+    "chapter":"Chapter 1: Manuchihr enthroned",
     "zoom":1,
-    "image":"img/pictorial-st-louis.png",
-    "source-credit":"Source: Library of Congres",
-    "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"A popular cartographic form used to depict U.S. and Canadian cities and towns during the late nineteenth and early twentieth centuries was the panoramic map. Known also as bird's-eye views, perspective maps, panoramas, and aero views, panoramic maps are nonphotographic representations of cities, portrayed as if viewed from above at an oblique angle. Although not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective.\" (Hebert & Dempsey)"},
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"The Shahnama is the longest epic poem in the world and was written by Firdawsi around 1012, commissioned by the three bibliophilic sons of Shāh Rukh. It contains the history of the ancient Persian kings, and the knowledge of the earliest kings of Iran was transmitted in literary form mainly through the Shahnama. The main character of this story is Manuchihr, who was the ruler of the Ziyarids (1012 at the latest - c. 1031). He was the grandson of Iraj, and Fereydun was his great-grandfather. After Iraj was killed, Fereydun crowned Manuchihr as king. And after Fereydun's death, Manuchihr was devastated./n/nThis story tells that Manuchihr was re-ascended to the throne and made a speech. Before that, Manuchihr and his subjects mourned the death of Fereydun for seven days. On the eighth day, Manuchihr came out, put the king's hat back on his head, ascended the throne, and made a speech. In his speech, he mainly delivered his role as a leader playing the role of love and justice, anger and strife. And under his leadership, he punished many evil people. But despite this, he still belongs to God, and all his followers should likewise belong to God. Anyone who goes against the will of God is an infidel. We need to forbid and punish such people. And he will certainly punish the murderers who betrayed his grandparents.
+"},
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
