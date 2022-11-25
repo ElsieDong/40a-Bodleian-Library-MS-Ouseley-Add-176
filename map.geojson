@@ -37,12 +37,12 @@
     "geometry":{"type":"Point","coordinates":[5225,1185]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: Flags & Standards",
-    "zoom":3,
-    "image":"img/pictorial-st-louis-cemetery.png",
-    "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/2012586260",
-    "description":"\"...to the Cemeteries on the northwest. Every foot of the vast territory within these limits has been carefully examined and topographically drawn in perspective, by Mr. C. N. Dry and his assistants, and the faithfulness and accuracy with which this work has been done an examination of the pages will attest. Absolute truth and accuracy in the representation of the territory has been the standard and in no cases have additions or alterations been made unless the same were actually in course of construction. In a few cases, important public and private edifices that are not yet finished are shown completed, and as they will appear when done. All the buildings within the limits of the survey in July, 1875, are shown; and a very large number of those executed or commenced since that date have been also introduced, the pages having been constantly corrected up to the last possible moment before publication.\""},
+    "chapter":"Chapter 5: Surrounding environment",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"A wide expanse of green grass can be seen in the backdrop, appearing almost like a wave as it moves with the breeze. There are a few different kinds of plants and flowers growing on the grass. A dark-colored soil at the bottom supports the growth of a dark-green shrub that is rather tall and has purple blossoms. Red flowers are also growing in a shorter spot in the lower right-hand corner of the image. Alongside Manuchihr, clusters of white hibiscus blossoms are opening up to reveal their beauty. The hibiscus flower, which stands for resiliency and energy, is also a representation of Manuchihr's resolve. There is a blue river portrayed in the top left corner of the photo, and there are still some red flowers blooming on the banks of the river. The power that Manuchihr brings to the position of leader is demonstrated by the fact that the wind that is blowing over the river looks like a crimson flame and is as intense and ferocious as a flame."},
     "geometry":{"type":"Point","coordinates":[5030,2150]}},
   {"type":"Feature","properties":
     {"id":6,
