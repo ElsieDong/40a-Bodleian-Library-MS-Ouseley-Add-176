@@ -10,13 +10,12 @@
     "geometry":{"type":"Point","coordinates":[3319,4092]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: Manuchihr",
-    "zoom":2,
-    "image":"",
-    "source-credit":"",
+    "chapter":"Chapter 2: Clouds",
+    "zoom":5,
+    "image":"img/pictorial-st-louis-1832.png",
+    "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"Unlike the large bright colors worn, Manuchihr's outfit was understated but luxurious. On his head, Manuchihr wore a ruby-studded king's hat. His long orange sleeves were covered with a navy-blue v-neck blouse with gold floral accents on the chest and shoulders. The pants were the same dark blue as the top smock, with two circles of gold floral patterns on each calf of the pants. The ankle closure is also wrapped in gold coils, revealing orange socks that echo the long sleeves of the upper body./n/n A crimson blanket ornamented with gold lays beneath him, and a sheet of orange silk embellished with golden stars drapes naturally from beneath the golden throne. As can be seen, the colors yellow, gold, and red, which represent power, are used extensively on Manuchihr's throne to symbolize the status of the king. The large cold color of Manuchihr's clothes also represents his grieving mood. He is holding a white handkerchief in his hand, perhaps just now still crying with grief over the departure of Fereydun. /n/n When we zoom in on his facial demeanour, we see that his mouth is tightly closed, and his eyes are slightly swollen, still unable to hide his sadness. But otherwise, his gaze is still firm. He was the leader of a nation, and he had to lead his subjects to rise and avenge his grandfathers' deaths.
-"},
+    "description":"\"The preliminary drawings for this work were made early in the spring of 1874. After a careful consideration of the subject, it was determined to locate the point of view so that the city would be seen from the southeast, believing that to be the most advantageous in all respects. Accordingly, the point of site was established on the Illinois side of the river, looking to the northwest, and at sufficient altitude to overlook the roofs of ordinary houses into the streets. A careful perspective, which required a surface of three hundred square feet, was then erected from a correct survey of the city, extending northward from Arsenal Island...\""},
     "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":3,
