@@ -19,12 +19,12 @@
     "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: Rock",
-    "zoom":4,
-    "image":"img/pictorial-st-louis-water-works.png",
-    "source-credit":"Source: StLouis-MO.gov",
-    "source-link":"https://www.stlouis-mo.gov/archive/neighborhood-histories-norbury-wayman/bissell/works4.htm  ",
-    "description":"\"...to the Water Works, a distance of about ten miles, on the river front;\""},
+    "chapter":"Chapter 3: Manuchihr’s Oration",
+    "zoom":1,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"From the translation of Arthur Warner, Manuchihr said, “I sit atop the revolving sphere, administering love, justice, wrath, and struggle. Earth is my servant, heaven my ally, kings' skulls my prey. Faith and Grace are mine to bless and damage. I take revenge at night; I'm Barzin's raging fire and lord of scimitar and golden boot. I raise Kawa's flag, illuminate the clouds, and fight without mercy. When I eat, my hands become an ocean, but when I ride, my breath is fire. I cut the wicked's practice short and make the land a scarlet brocade of blood. I wield the mace, illustrate the crown, and light the realm from my ivory seat. Let all our talk be about God, whose crown, throne, and host we hold. We laud and defend him. We follow blessed Fereydun. We're young compared to our grandfather. Whoever in the seven climes of earth departs from the way, abandons the Faith, injures mendicants, oppresses kin, lifts his head in money pride, or causes pain to the suffering, I consider them unbelievers. Worse than Ahriman. All evildoers who don't believe are forbidden by God and us; we'll use a scimitar to destroy their kingdom in revenge. All the world's great men blessed him and said, "Thy beautiful grandsire, O benevolent Shah! Teach the throne and crown. Be your throne of powerful men, crown and archimages' grace. Our souls are dedicated to thee.”"},
     "geometry":{"type":"Point","coordinates":[3145,1680]}},
   {"type":"Feature","properties":
     {"id":4,
