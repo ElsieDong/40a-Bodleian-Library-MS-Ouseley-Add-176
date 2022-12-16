@@ -47,12 +47,12 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: Persian Calligraphy",
-    "zoom":2,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"",
     "description":"Let's begin by examining the calligraphy that is located at the very top of the image. From a linguistic standpoint, the Shahnama's language is Persian. Some individuals who have exceptional linguistic tastes think that Persian is the most elegant, beautiful, and humorous language that exists anywhere in the world (Casari 2013, 127). It is clear that the letters in these calligraphies have been given the appropriate amount of 'boldness' or 'faintness' depending on the context, as well as the appropriate shape. To achieve boldness, you must press the entire tip of the nib as firmly as you can onto the paper. Boldness is required in the middle and end parts of elongations, in the middle parts of semicircular final flourishes, and on the tops of dāl, fā, qāf, wāw, etc. By using the corner of the nib or a portion of its tip, you can achieve a more delicate line. It is necessary in the beginnings and the middles of the majority of letters, as well as in the endings of certain letters, which should be made thinner (Encyclopaedia Iranica, 2011). We can also see that Persian calligraphy places a lot of importance on the proportions of the letters and the composition of the writing in order to make the whole thing look more beautiful and balanced."},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "geometry":{"type":"Point","coordinates":[3145,1680]}},
     {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7: The Meaning of The Image",
